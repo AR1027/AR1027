@@ -14,6 +14,8 @@
 
 ## 📫 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/akanksha-rout-187a85184/) | [Website](some-day) | [Email](routakanksha@gmail.com)  
+
+### ✨ Always open to collaborations and new opportunities in computational biology! 🚀
 <!---
 AR1027/AR1027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
