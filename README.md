@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CADD
 - 📫 How to reach me.Ping me @routakanksha@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love bio, studied animals but trying become a bio-Pythonista.
+- ⚡ Fun fact: I love bio, studied animals but trying become a bio-Pythonista one day.
 
 <!---
 AR1027/AR1027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
