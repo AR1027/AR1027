@@ -1,5 +1,5 @@
 - 👋# Hi, I’m @AR1027(That's nickname for Akanksha)
-- 🔬 Computational Biologist | Bioinformatics | Data Science  
+- 🔬 Computational Biologist | Bioinformatics | linux_drugdiscovery_CADD  
 - 👀 I’m interested in CADD,Python,R,AI,ML and biology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on CADD
